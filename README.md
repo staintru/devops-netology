@@ -10,3 +10,6 @@ First add line text
 файлы override.tf, override.tf.json, также файлы оканчивающиеся на _override.tf или _override.tf.json;
 временный файл блокировки состояния .terraform.tfstate.lock.info;
 файлы конфигурации CLI Terraform .terraformrc и terraform.rc.
+
+
+Change README.md - create new line
